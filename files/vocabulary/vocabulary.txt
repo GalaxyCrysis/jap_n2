@@ -1,0 +1,60 @@
+﻿word,hiragana,german,english
+アイスクリーム,none,eiscreme,ice creame
+合う,あう,treffen,meet
+青い,あおい,blau,blue
+赤い,あかい,rot,red
+赤ちゃん,あかちゃん,baby,baby
+明るい,あかるい,hell,bright
+開ける,あける,öffnen,open
+上げる,あげる,geben,give
+朝,あさ,Morgen,morning
+明後日,あさって,übermorgen,overmorrow
+朝,あした,morgen,tomorrow
+彼処,あそこ,dort,there
+頭,あたま,Kopf,head
+新しい,あたらしい,neu,new
+暖かい,あたたかい,warm,warm
+彼方,あちら,dort drüben,over there
+暑い,あつい,heiß,hot
+後で,あとで,später,later
+貴方,あなた,du,you
+兄,あに,älterer Bruder,elder brother
+姉,あね,ältere Schwester,elder sister
+彼の,あの,jene,those
+危ない,あぶない,gefährlich,dangerous
+余り,あまり,nicht sehr,not all that
+アメリカ人,あめりかじん,Amerikaner,american
+有り難う,ありがとう,danke,thanks
+在る,ある,sein:haben,be:have
+歩く,あるく,laufen,run
+アルバム,none,Album,album
+彼,あれ,das dort drüben,that over there
+安全な,あんぜんな,sicher,sure
+良い,いい,gut,good
+言う,いう,sagen,say
+如何,いかが,wie,how
+イギリス,none,Großbritannien:England,Great Britain:England
+行く,いく,gehen,go
+幾つ,いくつ,wie viele, how many
+幾ら,いくら,wie viel, how much
+医者,いしゃ,Arzt,doctor
+忙しい,いそがしい,beschäftigt,busy
+椅子,いす,Stuhl,chair
+痛い,いたい,weh tun:schmerzen,hurt
+頂く,いただく,erhalten:bekommen:essen,get:eat
+イタリア,none,Italien,Italy
+一,いち,eins,one
+一億,いちおく,hundert Millionen,one hundred million
+一度,いちど,einmal:ein Mal,once
+一万,いちまん,zehntausend,ten thousand
+何時,いつ,wann,when
+五日,いつか,fünfter,fifth
+一階,いっかい,Erdgeschoss,downstairs:main floor
+一か月,いっかげつ,ein Monat,a month
+一緒に,いっしょに,zusammen,together
+五つ,いつつ,fünf Stück:fünf jahre alt,five pieces:five years old
+
+
+
+
+
