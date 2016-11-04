@@ -53,6 +53,61 @@
 一か月,いっかげつ,ein Monat,a month
 一緒に,いっしょに,zusammen,together
 五つ,いつつ,fünf Stück:fünf jahre alt,five pieces:five years old
+一杯,いっぱい,ein Glas,a glass
+従兄弟,いとこ,Cousin,cousin
+今,いま,jetzt,now
+居間,いま,Wohnzimmer,parlor:lounge
+居る,いる,sein:befinden:bleiben,be:stay
+妹,いもうと,jüngere Schwester,younger sister
+イヤホン,none,Kopfhörer,earphone
+五自,いらっしゃる,kommen:gehen:sein,come:go:be
+入口,いりぐち,Eingang:Zugang:Einfahrt,entrance
+色,いろ,Farbe,color:colour
+色々な,いろいろな,verschiedene:viele,sundry
+ウィスキー,none,Whisky,Whiskey:Whisky
+ウェイトレス,none,Kellnerin,waitress
+受け付け,うけつけ,Rezeption:Auskunft:Empfang:Annahme,reception:desk:information
+うち,none,Haus:Heim:Wohnung,house:home
+売る,うる,verkaufen,sell
+海,うみ,Meer:See:Ozean,ocean:sea
+売り場,うりば,Verkaufsstand:Verkaufsabteilung,stall
+煩い,うるさい,laut:lärmend:störend:lästig:aufdringlich:nervig,loud:noisy:intrusive:annoying
+運転する,うんてんする,fahren:steuern:lenken,drive
+運転者,うんてんしゃ,Fahrer,driver
+絵,え,Bild:Gemälde,picture:painting
+エアコン,none,Klimaanlage,aircon:air conditioner
+映画,えいが,Film:Kino,film:movie:cinema
+英語,えいご,Englisch,english
+駅,えき,Bahnhof,station:rail station:train station
+円,えん,Yen,yen
+甥,おい,Neffe,nephew
+美味しい,おいしい,schmackhaft:wohlschmeckend:lecker,delicious:tasty:yummy
+多い,おおい,viel:zahlreich:häufig,numerous:much:many
+大きな,おおきな,groß:gewaltig:mächtig:riesig:gigantisch,great:big:huge:enormous
+御母さん,おかあさん,Mutter,mother
+御菓子,おかし,Süßigkeiten:Kuchen:Gebäck:Konfekt,candy:cake:cookies:pastry
+御金,おかね,Geld:Münze:Vermögen,money:asset
+置く,おく,stellen:legen:setzen,put:lay:place
+御客さん,おきゃくさん,Gast:Kunde,guest:customer
+奥さん,おくさん,Ehefrau:gnädige Frau,wife
+送る,おくる,senden:schicken:transportieren,send:transport
+お子さん,おこさん,Kind,child:kid
+怒る,おこる,zornig werden:wütend werden:ärgerlich werden:böse sein:aufregen,get angry
+お酒,おさけ,Sake,sake
+伯父,おじ,Onkel,uncle
+御祖父さん,おじいさん,Großvater:Opa,grandfather
+教える,おしえる,lehren:unterrichten:mitteilen,teach
+押す,おす,stoßen:schieben,push
+御嬢さん,おじょうさん,Tochter,daughter
+遅い,おそい,spät:langsam,late,slow
+御宅,おたく,Haus,home:house
+御茶,おちゃ,Tee,tea
+御釣り,おつり,Wechselgeld,change:cash float
+お手洗い,おてあらい,Toilette,toilet
+寺,てら,Tempel,temple
+御父さん,おとうさん,Vater,father
+
+
 
 
 
